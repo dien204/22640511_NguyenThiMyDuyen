@@ -1,0 +1,8 @@
+data_path: data/raw/data.csv
+target_col: target
+task_type: classification
+test_size: 0.2
+random_state: 42
+drop_cols: []
+model_path: models/model.pkl
+metrics_path: metrics.txt
